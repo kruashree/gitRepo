@@ -3,3 +3,5 @@ test 2
 test 3
 ************************
 test4 - commit 3
+
+adding new line
