@@ -1,0 +1,10 @@
+file 2..
+file 2.1
+file 2,3
+
+checking the staging area differences
+
+
+
+
+

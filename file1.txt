@@ -4,4 +4,10 @@ test 3
 ************************
 test4 - commit 3
 
-adding new line
+
+
+
+adding new line 
+
+checking file diff in staging area
+
