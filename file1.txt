@@ -4,4 +4,6 @@ test 3
 ************************
 test4 - commit 3
 
-child branch added
+adding new line 
+
+checking file diff in staging area
